@@ -55,4 +55,4 @@ Devem ser utilizado as seguintes tecnologias e padrões:
 * TypeScript
 
 ## Boa sorte
-Caso tenha quaisquer dúvidas, entrar em contato com mauricio@fpass.com.br
+Caso tenha quaisquer dúvidas, entrar em contato com dev@empregoteca.com.br
